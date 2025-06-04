@@ -57,9 +57,7 @@ O sistema realizará automaticamente exemplos de busca e recomendação, conform
 
 ---
 
-## Instruções de Como Executar os Testes
-
-> ⚠️ **Nota:** Atualmente, o projeto **não possui testes unitários implementados**.  
+## Instruções de Como Executar os Testes  
 
 Para compilar e verificar o código:  
 
